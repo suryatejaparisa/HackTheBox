@@ -7,3 +7,4 @@
 4. Noxious - *SOC* - https://labs.hackthebox.com/achievement/sherlock/3497415/747
 5. Dream Job-1 - *Threat Intelligence* - https://labs.hackthebox.com/achievement/sherlock/3497415/865
 6. Reaper - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/749 
+7. Campfire-2 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/736
