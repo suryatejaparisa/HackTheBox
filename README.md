@@ -9,3 +9,4 @@
 6. Reaper - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/749 
 7. Campfire-2 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/736
 8. BFT - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/633
+9. UFO-1 - *Threat Intelligence* - https://labs.hackthebox.com/achievement/sherlock/3497415/840
