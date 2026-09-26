@@ -12,3 +12,4 @@
 9. UFO-1 - *Threat Intelligence* - https://labs.hackthebox.com/achievement/sherlock/3497415/840
 10. CrownJewel-2 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/750
 11. Operation Blackout 2025: Phantom Check - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/935
+12. CrownJewel-1 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/751
